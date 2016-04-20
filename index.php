@@ -1,4 +1,4 @@
 <?php
-header("Location: ../frontend/");
+header("Location: glory/frontend/");
 exit;
 ?>
